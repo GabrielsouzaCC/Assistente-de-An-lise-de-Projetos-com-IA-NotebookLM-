@@ -97,9 +97,35 @@ Extraia do documento as seguintes informações:
 - tecnologias utilizadas
 - resultados esperados
 
-Resultado:
+## Demonstração do Projeto
 
-A IA retornou as informações estruturadas em formato de lista, facilitando a análise.
+### Upload das fontes no NotebookLM
+
+![Fontes carregadas](<img width="294" height="421" alt="image" src="https://github.com/user-attachments/assets/2370873b-2caf-45d5-8534-947c8ffad98b" />
+
+---
+
+### Prompt utilizado para análise
+
+![Analise o documento e identifique os principais riscos do projeto. Para cada risco, explique:
+.descrição do risco
+.possível impacto
+.possíveis estratégias de mitigação
+
+
+---
+
+### Resposta gerada pela IA
+![Resposta da IA]
+
+<img width="567" height="428" alt="image" src="https://github.com/user-attachments/assets/574e6014-469d-4198-8f97-4a428f6e27f9" />
+
+<img width="565" height="361" alt="image" src="https://github.com/user-attachments/assets/fb9b8e85-69fd-4a44-a743-c52786792608" />
+
+<img width="556" height="354" alt="image" src="https://github.com/user-attachments/assets/7b65524c-5131-4efa-a55e-fcd46a5aa160" />
+
+<img width="560" height="282" alt="image" src="https://github.com/user-attachments/assets/cdf81aaf-ae1c-4bb7-8eba-4569c6d7451b" />
+
 
 ---
 
@@ -185,3 +211,6 @@ O uso do NotebookLM mostrou potencial para apoiar profissionais em atividades co
 - geração de resumos executivos.
 
 Esse tipo de abordagem pode aumentar a produtividade em áreas como engenharia, gestão de projetos e análise de dados.
+
+# Link nooteboolm: https://notebooklm.google.com/notebook/3fb0f462-0a36-421b-b667-b4847a8de140
+
