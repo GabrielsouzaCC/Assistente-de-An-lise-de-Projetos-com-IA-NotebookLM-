@@ -101,15 +101,20 @@ Extraia do documento as seguintes informações:
 
 ### Upload das fontes no NotebookLM
 
-![Fontes carregadas](<img width="294" height="421" alt="image" src="https://github.com/user-attachments/assets/2370873b-2caf-45d5-8534-947c8ffad98b" />
+![Fontes carregadas]
+
+<img width="294" height="421" alt="image" src="https://github.com/user-attachments/assets/2370873b-2caf-45d5-8534-947c8ffad98b" />
 
 ---
 
 ### Prompt utilizado para análise
 
 ![Analise o documento e identifique os principais riscos do projeto. Para cada risco, explique:
+
 .descrição do risco
+
 .possível impacto
+
 .possíveis estratégias de mitigação
 
 
